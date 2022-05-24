@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 329748024
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: textureassetbundle
+      Dependencies: {}
+    Info_1:
+      Name: sceneassetbundle
+      Dependencies:
+        Dependency_0: textureassetbundle
